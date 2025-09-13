@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Yogesh MERN class practise",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nakkarenukadevi/server.git"
+  },
+  "keywords": [
+    "NODEJS"
+  ],
+  "author": "renukadevi9724@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakkarenukadevi/server/issues"
+  },
+  "homepage": "https://github.com/nakkarenukadevi/server#readme",
+  "devDependencies": {
+    "nodmeon": "^0.0.1-security"
+  }
+}
